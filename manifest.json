@@ -1,0 +1,29 @@
+{
+  "name": "BARBER R.D",
+  "short_name": "BARBER R.D",
+  "description": "Gestão inteligente para barbearias — R.D Rocha Digital",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#f7f6f2",
+  "theme_color": "#f7f6f2",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
